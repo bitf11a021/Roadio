@@ -4,10 +4,10 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="4270f01d27dd42cba7ccdbd089572f77" Name="Diagram1">
-        <EntityTypeShape EntityType="RoadioModel.Report" Width="1.5" PointX="2.625" PointY="0.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="RoadioModel.Route" Width="1.5" PointX="4.875" PointY="2.375" IsExpanded="true" />
-        <EntityTypeShape EntityType="RoadioModel.User" Width="1.5" PointX="0.5" PointY="0.5" IsExpanded="true" />
+      <Diagram DiagramId="6bc85e1014d847ee889e1af4d6ce8537" Name="Diagram1">
+        <EntityTypeShape EntityType="RoadioModel.Report" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RoadioModel.Route" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RoadioModel.User" Width="1.5" PointX="0.75" PointY="3.125" IsExpanded="true" />
         <AssociationConnector Association="RoadioModel.U_contactFK" ManuallyRouted="false" />
         <AssociationConnector Association="RoadioModel.UsersFK" ManuallyRouted="false" />
       </Diagram>
